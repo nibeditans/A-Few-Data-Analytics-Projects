@@ -35,6 +35,10 @@ Alright! So, here's are the list of a few:
 - Power BI: Power BI Desktop, Power Query Editor, Dax
 - [Strategic E-commerce Analytics Dashboard](https://github.com/nibeditans/Strategic-E-commerce-Analytics-Dashboard)
 
+## Bidisha Store Report Analysis
+- Excel
+- [Bidisha Store Report Analysis](https://github.com/nibeditans/Bidisha-Store-Report-Analysis)
+
 ## Financial Sample Project Using Python Libraries
 - Python: NumPy, Pandas, Matplotlib, Scikit-Learn
 - [Financial Sample Project](https://github.com/nibeditans/Financial-Sample-Project-Using-Python-Libraries)
