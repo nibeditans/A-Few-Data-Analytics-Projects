@@ -1,4 +1,4 @@
-# A-Few-Data-Analytics-Projects
+# A Few Data Analytics Projects
 This is a curated collection of my selected Data Analytics projects, gathered in one place for easy access and showcase.
 
 Alright! So, here's are the list of a few:
