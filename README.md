@@ -4,11 +4,11 @@ This is a curated collection of my selected Data Analytics projects, gathered in
 Alright! So, here's are the list of a few:
 
 ## Employee Attrition Analysis on IBM HR Data
-- Python: Pandas, Matplotlib, Seaborn, SQL: MySQL, Power BI: Power BI Desktop, Power Query Editor, Dax
+- Python: Pandas, Matplotlib, Seaborn; SQL: MySQL; Power BI: Power BI Desktop, Power Query Editor, Dax
 - [IBM HR Employee Attrition Analysis](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data)
 
 ## Customer Sales Performance Analysis
-- Python: Pandas, Matplotlib, Seaborn, SQL: MySQL, Power BI: Power BI Desktop, Power Query Editor, Dax
+- Python: Pandas, Matplotlib, Seaborn; SQL: MySQL; Power BI: Power BI Desktop, Power Query Editor, Dax
 - [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
 
 ## Credit Card Financial Analysis
@@ -18,6 +18,10 @@ Alright! So, here's are the list of a few:
 ## Super Store Sales Analysis & Forecasting
 - Power BI: Power BI Desktop, Power Query Editor, Dax
 - [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
+
+## Healthcare Data Insights & Trends Analysis
+- Python: Pandas, Matplotlib, Seaborn, Scikit-Learn
+- [Healthcare Data Insights & Trends Analysis](https://github.com/nibeditans/Healthcare-Data-Insights-Trends-Analysis)
 
 ## Diwali Sales Analysis
 - Python: Pandas, Matplotlib, Seaborn
