@@ -1,7 +1,7 @@
 # A Few Data Analytics Projects
 This is a curated collection of my selected Data Analytics projects, gathered in one place for easy access and showcase.
 
-Alright! So, here's are the list of a few:
+Alright! So, here's the list of a few:
 
 ## Employee Attrition Analysis on IBM HR Data
 - Python: Pandas, Matplotlib, Seaborn; SQL: MySQL; Power BI: Power BI Desktop, Power Query Editor, Dax
