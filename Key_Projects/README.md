@@ -6,6 +6,6 @@
 ## Portfolio Project 2: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
 ## Portfolio Project 1: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
 
-These are the top 5 Key Projects I have Selected for my Portfolio, you can view in the [Projects Section](nibeditans.github.io/#projects). 
+These are the top 5 Key Projects I have Selected for my Portfolio, you can view in the **[Projects Section](nibeditans.github.io/#projects)**. 
 
 Also, here the numbers ain't Rankings, instead those are the order, when I built them. For instance, 5th project is the Latest one.😅
