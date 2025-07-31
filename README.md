@@ -23,7 +23,6 @@ Alright! So, here's the list of a few:
 
 ### Tools and Technologies Used
 - **Python:** Pandas, Matplotlib, Seaborn
-- **SQL:** MySQL
 - **Power BI:** Power BI Desktop, Power Query Editor, Dax
 
 ### Resources
