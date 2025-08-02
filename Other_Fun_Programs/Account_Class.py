@@ -21,7 +21,6 @@ class Account:
     def update_balance(self):
         print(f"Total Balance after updation: {self.balance} INR.")
 
-
 acc1 = Account(10000, 1234567890)
 # print(acc1.balance)
 # print(acc1.account_no)
