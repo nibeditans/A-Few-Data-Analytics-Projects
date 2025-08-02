@@ -2,7 +2,7 @@
 # FALTY CALCULATOR
 
 Qn: Design a calculator which will correctly solve all the problems except the following ones: 40 x 8 = 124, 97 + 9 = 77, and 36 / 6 = 4. 
-Your program should take operator and the two numbers as input from the user and resturn the result.
+Your program should take operator and the two numbers as input from the user and return the result.
 """
 
 # SOLUTION:
