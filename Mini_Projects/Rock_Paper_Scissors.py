@@ -1,4 +1,5 @@
 import random
+
 print("""Instructions:
 Enter 'r', 'p', or 's' only. If you typed anything else other than one among them, then computer will be going 
 to take advantage of it. Computer will get 1 point and you'll get 0 points. So, give your choice carefully.
@@ -10,7 +11,7 @@ while True:
     user_count = 0
     com_count = 0
 
-    your_inp = input("\nType 'yes' to play or type anything to exit the game: ")
+    your_inp = input("\nType 'yes' to play or type anything to exit the Game: ")
     if your_inp == 'yes':
         for _ in range(1, 6):
             user_input = input("""
@@ -20,6 +21,7 @@ while True:
                                 """)
 
             your_choice = []
+            
             if user_input == 'r':
                 your_choice = "Rock"
             elif user_input == 'p':
@@ -31,6 +33,7 @@ while True:
                       "You missed your 1 point from your chances to win and computer took advantage of it.")
 
             com_choice = random.choice(lis)
+            
             if com_choice == your_choice:
                 print("It's a draw!")
                 com_count += 1
@@ -43,6 +46,7 @@ while True:
                 com_count += 1
 
         print("\nYou got", user_count, "points and computer got", com_count, "points.")
+        
         if user_count == com_count:
             print("FINAL RESULT: Match Draw! You both got the same points.")
         elif user_count > com_count:
