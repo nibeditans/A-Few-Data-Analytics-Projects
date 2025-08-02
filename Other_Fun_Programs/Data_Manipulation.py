@@ -1,3 +1,5 @@
+# Data Manipulation and Analysis
+
 # Import the required libraries
 import numpy as np 
 import pandas as pd 
@@ -38,3 +40,9 @@ print(filtered_df)
 sorted_df = df.sort_values(by='B', ascending=False)
 print("\nSorted DataFrame:")
 print(sorted_df)
+
+"""
+This notebook is about basic data manipulation and analysis tasks using numpy and 
+pandas in Python. The code above explains various operations on a DataFrame, including 
+accessing columns and rows, performing calculations(like mean), filtering, and sorting.
+"""
