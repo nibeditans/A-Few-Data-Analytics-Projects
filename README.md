@@ -15,7 +15,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [Electric Vehicle Population Analysis](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis)
 - Complete Article: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
-- Kaggle Dataset: [Electric Vehicle Population Analysis](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
+- Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
 
 ----------
 
@@ -28,7 +28,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [IBM HR Employee Attrition Analysis](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data)
 - Complete Article: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
-- Kaggle Dataset: [IBM HR Employee Attrition Analysis](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
+- Kaggle Dataset: [IBM HR Employee Attrition Data](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
 
 ----------
 
@@ -44,7 +44,7 @@ Alright! So, here's the list of a few:
 - Article 1: [Customer Sales Analysis — Python Version (Part-1)](https://nsdsda.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
 - Article 2: [Customer Sales Analysis — SQL Version (Part-2)](https://nsdsda.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
 - Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
-- Kaggle Dataset: [Customer Sales Analysis](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
+- Kaggle Dataset: [Customer Sales Data](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
 
 ----------
 
@@ -56,7 +56,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
 - Complete Article: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
-- Kaggle Dataset: [Credit Card Financial Dashboard Using Power BI](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
+- Kaggle Dataset: [Credit Card and Customers Datasets](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
 
 ----------
 
@@ -68,7 +68,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
 - Complete Article: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
-- Kaggle Dataset: [Super Store Sales Dashboard](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
+- Kaggle Dataset: [Super Store Sales Data](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
 
 ----------
 
@@ -80,7 +80,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [Diwali Sales Analysis](https://github.com/nibeditans/Diwali-Sales-Analysis)
 - Complete Article: [Diwali Sales Analysis](https://nsdsda.medium.com/diwali-sales-analysis-b224a4eeaf7d)
-- Kaggle Dataset: [Diwali Sales Analysis](https://www.kaggle.com/datasets/nibeditasahu/diwali-sales-analysis)
+- Kaggle Dataset: [Diwali Sales Data](https://www.kaggle.com/datasets/nibeditasahu/diwali-sales-analysis)
 
 ----------
 
@@ -104,7 +104,7 @@ Alright! So, here's the list of a few:
 ### Resources
 - Complete Project: [HR Analytics Dashboard](https://github.com/nibeditans/HR-Analytics-Dashboard)
 - Complete Article: [HR Analytics Dashboard](https://nsdsda.medium.com/hr-analytics-dashboard-04bea8fc08cd)
-- Kaggle Dataset: [HR ANALYTICS DASHBOARD](https://www.kaggle.com/datasets/nibeditasahu/hr-analttics-dashboard)
+- Kaggle Dataset: [HR ANALYTICS Data](https://www.kaggle.com/datasets/nibeditasahu/hr-analttics-dashboard)
 
 ----------
 
@@ -137,7 +137,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Financial Sample Project](https://github.com/nibeditans/Financial-Sample-Project-Using-Python-Libraries)
-- Kaggle Dataset: [Financial Sample Data Using Python Libraries](https://www.kaggle.com/datasets/nibeditasahu/financial-sample-data)
+- Kaggle Dataset: [Financial Sample Data](https://www.kaggle.com/datasets/nibeditasahu/financial-sample-data)
 
 ----------
 
@@ -148,7 +148,7 @@ Alright! So, here's the list of a few:
 
 ### Resources
 - Complete Project: [Bidisha Store Report Analysis](https://github.com/nibeditans/Bidisha-Store-Report-Analysis)
-- Kaggle Dataset: [Bidisha Store Report Analysis](https://www.kaggle.com/datasets/nibeditasahu/bidisha-store-report-analysis)
+- Kaggle Dataset: [Bidisha Store Data](https://www.kaggle.com/datasets/nibeditasahu/bidisha-store-report-analysis)
 
 
 ____________________________________________________________________________________________________
