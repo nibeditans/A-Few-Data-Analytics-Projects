@@ -157,7 +157,7 @@ ________________________________________________________________________________
 ## A Few Fun Programs
 
 ### Body Fat Calculator
-- Python: Math, IpyWidgets, IPython
+- Python: Math, IpyWidgets, IPython, Pandas, Streamlit
 - [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
 
 ### Classification Analysis
