@@ -11,6 +11,7 @@ Alright! So, here's the list of a few:
 - **Python:** Pandas, SQLAlchemy, NumPy, Matplotlib, Seaborn
 - **SQL:** MySQL
 - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** Canva
 
 ### Resources
 - Complete Project: [Electric Vehicle Population Analysis](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis)
@@ -38,6 +39,7 @@ Alright! So, here's the list of a few:
 - **Python:** Pandas, Matplotlib, Seaborn
 - **SQL:** MySQL
 - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
 
 ### Resources
 - Complete Project: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
@@ -52,6 +54,7 @@ Alright! So, here's the list of a few:
 
 ### Tools and Technologies Used
 - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
 
 ### Resources
 - Complete Project: [Credit Card Financial Analysis](https://github.com/nibeditans/Credit-Card-Financial-Dashboard)
@@ -64,6 +67,7 @@ Alright! So, here's the list of a few:
 
 ### Tools and Technologies Used
 - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- **Presentation:** PowerPoint
 
 ### Resources
 - Complete Project: [Super Store Sales Analysis & Forecasting](https://github.com/nibeditans/Super-Store-Sales-Dashboard)
