@@ -76,7 +76,7 @@ Alright! So, here's the list of a few:
 
 ____________________________________________________________________________________________________
 
-## DS & DA Mini-Projects
+## Mini-Projects
 
 ### Body Fat Calculator
 - Python: Math, IpyWidgets, IPython, Pandas, Streamlit
