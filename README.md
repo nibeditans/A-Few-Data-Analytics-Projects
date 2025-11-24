@@ -74,6 +74,30 @@ Alright! So, here's the list of a few:
 - Complete Article: [Super Store Sales Dashboard & Forecasting](https://nsdsda.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
 - Kaggle Dataset: [Super Store Sales Data](https://www.kaggle.com/datasets/nibeditasahu/super-store-sales-dashboard)
 
+____________________________________________________________________________________________________
+
+## DS & DA Mini-Projects
+
+### Body Fat Calculator
+- Python: Math, IpyWidgets, IPython, Pandas, Streamlit
+- [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
+
+### Snake Game Using Turtle
+- Python: Turtle
+- [Snake Game](https://github.com/nibeditans/Snake-Game)
+
+### Rock Paper Scissors
+- Standard Python, Random
+- [Rock_Paper_Scissors](https://github.com/nibeditans/Rock_Paper_Scissors)
+
+### Scientific Calculator
+- Standard Python, Math 
+- [Scientific Calculator](https://github.com/nibeditans/Scientific-Calculator)
+
+____________________________________________________________________________________________________
+
+## Other DA Projects
+
 ----------
 
 ## Diwali Sales Analysis
@@ -154,15 +178,9 @@ Alright! So, here's the list of a few:
 - Complete Project: [Bidisha Store Report Analysis](https://github.com/nibeditans/Bidisha-Store-Report-Analysis)
 - Kaggle Dataset: [Bidisha Store Data](https://www.kaggle.com/datasets/nibeditasahu/bidisha-store-report-analysis)
 
-
-____________________________________________________________________________________________________
 ____________________________________________________________________________________________________
 
 ## A Few Fun Programs
-
-### Body Fat Calculator
-- Python: Math, IpyWidgets, IPython, Pandas, Streamlit
-- [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
 
 ### Classification Analysis
 - Python: Pandas, Scikit-Learn
@@ -175,14 +193,6 @@ ________________________________________________________________________________
 ### Scatter Plot with Mean and Standard Deviation Visualization
 - Python: NumPy, Pandas, Matplotlib
 - [Scatter Plot](https://github.com/nibeditans/Scatter-Plot)
-
-### Snake Game Using Turtle
-- Python: Turtle
-- [Snake Game](https://github.com/nibeditans/Snake-Game)
-
-### Rock Paper Scissors
-- Standard Python, Random
-- [Rock_Paper_Scissors](https://github.com/nibeditans/Rock_Paper_Scissors)
 
 ### Email Validation using String
 - Standard Python
@@ -200,10 +210,14 @@ ________________________________________________________________________________
 - Standard Python, PyGame, DateTime, Time
 - [Healthy Programmer](https://github.com/nibeditans/Healthy-Programmer-using-Python)
 
-### Scientific Calculator
-- Standard Python, Math 
-- [Scientific Calculator](https://github.com/nibeditans/Scientific-Calculator)
-
 ### Python Doodles
 - Python: Turle
 - [Python Doodles](https://github.com/nibeditans/PythonDoodles)
+
+____________________________________________________________________________________________________
+
+For more interesting DS & DA related Stuff, check out my Portfolio & Profiles:
+- Portfolio: [Nibedita](https://nibeditans.github.io/)
+- GitHub: [nibeditans](https://github.com/nibeditans)
+- LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
+- Medium: [NIBEDITA (NS)](https://nsdsda.medium.com/)
