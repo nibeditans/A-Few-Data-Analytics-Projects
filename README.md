@@ -211,7 +211,7 @@ ________________________________________________________________________________
 - [Healthy Programmer](https://github.com/nibeditans/Healthy-Programmer-using-Python)
 
 ### Python Doodles
-- Python: Turle
+- Python: Turtle
 - [Python Doodles](https://github.com/nibeditans/PythonDoodles)
 
 ____________________________________________________________________________________________________
