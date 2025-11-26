@@ -29,9 +29,9 @@ If you find a project interesting, feel free to:
 
 ## 📬 Connect With Me
 
-Check out my portfolio for more: 
-Portfolio: [Nate](https://nibeditans.github.io/)
-Linkedin: [Nibedita Sahu](linkedin.com/in/ns-nibedita-sahu)
-Medium: [Nibedita (NS)](https://nsdsda.medium.com/)
+Check out my portfolio & profiles for more: 
+- Portfolio: [Nate](https://nibeditans.github.io/)
+- Linkedin: [Nibedita Sahu](linkedin.com/in/ns-nibedita-sahu)
+- Medium: [Nibedita (NS)](https://nsdsda.medium.com/)
 
 ---
