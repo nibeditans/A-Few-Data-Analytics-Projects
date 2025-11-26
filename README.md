@@ -76,11 +76,19 @@ Alright! So, here's the list of a few:
 
 ____________________________________________________________________________________________________
 
-## Mini-Projects
+## Lab — Experiment • Build • Explore
+
+### Linear Regression (SLR & MLR)
+- Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
+- [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework)
 
 ### Body Fat Calculator
 - Python: Math, IpyWidgets, IPython, Pandas, Streamlit
 - [Body Fat Calculator](https://github.com/nibeditans/Body-Fat-Calculator)
+
+____________________________________________________________________________________________________
+
+## Mini-Projects
 
 ### Snake Game Using Turtle
 - Python: Turtle
