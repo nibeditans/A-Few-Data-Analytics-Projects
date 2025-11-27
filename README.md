@@ -1,5 +1,5 @@
-# A Few Data Analytics Projects
-This is a curated collection of my selected Data Analytics projects, gathered in one place for easy access and showcase.
+# Data Science & Analytics Projects
+This is a curated collection of my selected Data projects, gathered in one place for easy access and showcase.
 
 Alright! So, here's the list of a few:
 
@@ -18,7 +18,6 @@ Alright! So, here's the list of a few:
 - Complete Article: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
 - Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis)
 
-----------
 
 ## Employee Attrition Analysis on IBM HR Data
 
@@ -31,7 +30,6 @@ Alright! So, here's the list of a few:
 - Complete Article: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
 - Kaggle Dataset: [IBM HR Employee Attrition Data](https://www.kaggle.com/datasets/nibeditasahu/ibm-hr-employee-attrition-analysis)
 
-----------
 
 ## Customer Sales Performance Analysis
 
@@ -48,7 +46,6 @@ Alright! So, here's the list of a few:
 - Article 3: [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
 - Kaggle Dataset: [Customer Sales Data](https://www.kaggle.com/datasets/nibeditasahu/customer-sales-analysis)
 
-----------
 
 ## Credit Card Financial Analysis
 
@@ -61,7 +58,6 @@ Alright! So, here's the list of a few:
 - Complete Article: [Credit Card Financial Dashboard](https://nsdsda.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
 - Kaggle Dataset: [Credit Card and Customers Datasets](https://www.kaggle.com/datasets/nibeditasahu/credit-card-financial-dashboard-using-power-bi)
 
-----------
 
 ## Super Store Sales Analysis & Forecasting
 
@@ -106,85 +102,71 @@ ________________________________________________________________________________
 
 ## Other DA Projects
 
-----------
 
-## Diwali Sales Analysis
+### Diwali Sales Analysis
 
-### Tools and Technologies Used
-- **Python:** Pandas, Matplotlib, Seaborn
+- #### Tools and Technologies Used
+  - **Python:** Pandas, Matplotlib, Seaborn
+- #### Resources
+  - Complete Project: [Diwali Sales Analysis](https://github.com/nibeditans/Diwali-Sales-Analysis)
+  - Complete Article: [Diwali Sales Analysis](https://nsdsda.medium.com/diwali-sales-analysis-b224a4eeaf7d)
+  - Kaggle Dataset: [Diwali Sales Data](https://www.kaggle.com/datasets/nibeditasahu/diwali-sales-analysis)
 
-### Resources
-- Complete Project: [Diwali Sales Analysis](https://github.com/nibeditans/Diwali-Sales-Analysis)
-- Complete Article: [Diwali Sales Analysis](https://nsdsda.medium.com/diwali-sales-analysis-b224a4eeaf7d)
-- Kaggle Dataset: [Diwali Sales Data](https://www.kaggle.com/datasets/nibeditasahu/diwali-sales-analysis)
 
-----------
+### World Layoffs Analysis
 
-## World Layoffs Analysis
+- #### Tools and Technologies Used
+  - **SQL:** MySQL
+- #### Resources
+  - Complete Project: [World Layoffs Analysis](https://github.com/nibeditans/World-Layoffs-Analysis)
+  - Article 1: [DATA CLEANING in Layoff Dataset — Part 1](https://nsdsda.medium.com/data-cleaning-in-layoff-dataset-part-1-f366a6c112c6)
+  - Article 2: [EDA in Layoff Dataset — Part 2](https://nsdsda.medium.com/eda-in-layoff-dataset-part-2-dcc866041ebd)
 
-### Tools and Technologies Used
-- **SQL:** MySQL
 
-### Resources
-- Complete Project: [World Layoffs Analysis](https://github.com/nibeditans/World-Layoffs-Analysis)
-- Article 1: [DATA CLEANING in Layoff Dataset — Part 1](https://nsdsda.medium.com/data-cleaning-in-layoff-dataset-part-1-f366a6c112c6)
-- Article 2: [EDA in Layoff Dataset — Part 2](https://nsdsda.medium.com/eda-in-layoff-dataset-part-2-dcc866041ebd)
+### HR Analytics Dashboard
 
-----------
+- #### Tools and Technologies Used
+  - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- #### Resources
+  - Complete Project: [HR Analytics Dashboard](https://github.com/nibeditans/HR-Analytics-Dashboard)
+  - Complete Article: [HR Analytics Dashboard](https://nsdsda.medium.com/hr-analytics-dashboard-04bea8fc08cd)
+  - Kaggle Dataset: [HR ANALYTICS Data](https://www.kaggle.com/datasets/nibeditasahu/hr-analttics-dashboard)
 
-## HR Analytics Dashboard
 
-### Tools and Technologies Used
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+### Strategic E-commerce Analytics Dashboard
 
-### Resources
-- Complete Project: [HR Analytics Dashboard](https://github.com/nibeditans/HR-Analytics-Dashboard)
-- Complete Article: [HR Analytics Dashboard](https://nsdsda.medium.com/hr-analytics-dashboard-04bea8fc08cd)
-- Kaggle Dataset: [HR ANALYTICS Data](https://www.kaggle.com/datasets/nibeditasahu/hr-analttics-dashboard)
+- #### Tools and Technologies Used
+  - **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- #### Resources
+  - Complete Project: [Strategic E-commerce Analytics Dashboard](https://github.com/nibeditans/Strategic-E-commerce-Analytics-Dashboard)
+  - Complete Article: [Strategic E-commerce Analytics Dashboard](https://nsdsda.medium.com/strategic-e-commerce-analytics-dashboard-39816c83e791)
+  - Kaggle Dataset: [Strategic E-commerce Analytics Dashboard](https://www.kaggle.com/datasets/nibeditasahu/strategic-e-commerce-analytics-dashboard)
 
-----------
 
-## Strategic E-commerce Analytics Dashboard
+### Healthcare Data Insights & Trends Analysis
 
-### Tools and Technologies Used
-- **Power BI:** Power BI Desktop, Power Query Editor, Dax
+- #### Tools and Technologies Used
+  - **Python:** Pandas, Matplotlib, Seaborn, Scikit-Learn
+- #### Resources
+  - Complete Project: [Healthcare Data Insights & Trends Analysis](https://github.com/nibeditans/Healthcare-Data-Insights-Trends-Analysis)
 
-### Resources
-- Complete Project: [Strategic E-commerce Analytics Dashboard](https://github.com/nibeditans/Strategic-E-commerce-Analytics-Dashboard)
-- Complete Article: [Strategic E-commerce Analytics Dashboard](https://nsdsda.medium.com/strategic-e-commerce-analytics-dashboard-39816c83e791)
-- Kaggle Dataset: [Strategic E-commerce Analytics Dashboard](https://www.kaggle.com/datasets/nibeditasahu/strategic-e-commerce-analytics-dashboard)
 
-----------
+### Financial Sample Project Using Python Libraries
 
-## Healthcare Data Insights & Trends Analysis
+- #### Tools and Technologies Used
+  - **Python:** NumPy, Pandas, Matplotlib, Scikit-Learn
+- #### Resources
+  - Complete Project: [Financial Sample Project](https://github.com/nibeditans/Financial-Sample-Project-Using-Python-Libraries)
+  - Kaggle Dataset: [Financial Sample Data](https://www.kaggle.com/datasets/nibeditasahu/financial-sample-data)
 
-### Tools and Technologies Used
-- **Python:** Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-### Resources
-- Complete Project: [Healthcare Data Insights & Trends Analysis](https://github.com/nibeditans/Healthcare-Data-Insights-Trends-Analysis)
+### Bidisha Store Report Analysis
 
-----------
-
-## Financial Sample Project Using Python Libraries
-
-### Tools and Technologies Used
-- **Python:** NumPy, Pandas, Matplotlib, Scikit-Learn
-
-### Resources
-- Complete Project: [Financial Sample Project](https://github.com/nibeditans/Financial-Sample-Project-Using-Python-Libraries)
-- Kaggle Dataset: [Financial Sample Data](https://www.kaggle.com/datasets/nibeditasahu/financial-sample-data)
-
-----------
-
-## Bidisha Store Report Analysis
-
-### Tools and Technologies Used
-- **Excel**
-
-### Resources
-- Complete Project: [Bidisha Store Report Analysis](https://github.com/nibeditans/Bidisha-Store-Report-Analysis)
-- Kaggle Dataset: [Bidisha Store Data](https://www.kaggle.com/datasets/nibeditasahu/bidisha-store-report-analysis)
+- #### Tools and Technologies Used
+  - **Excel**
+- #### Resources
+  - Complete Project: [Bidisha Store Report Analysis](https://github.com/nibeditans/Bidisha-Store-Report-Analysis)
+  - Kaggle Dataset: [Bidisha Store Data](https://www.kaggle.com/datasets/nibeditasahu/bidisha-store-report-analysis)
 
 ____________________________________________________________________________________________________
 
