@@ -72,7 +72,7 @@ Alright! So, here's the list of a few:
 
 ____________________________________________________________________________________________________
 
-## Lab — Experiment • Build • Explore
+## Lab ⇰ Experiment • Build • Explore
 
 ### Linear Regression (SLR & MLR)
 - Python: NumPy, Pandas, Matplotlib, Seaborn, GGPlot, SciPy, StatsModels, Scikit-learn
