@@ -12,6 +12,7 @@ The goal is to understand regression deeply, by actually doing it, not just memo
 3. Multiple Regression (4 predictors): [03_mlr_4_predictors.ipynb](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework/blob/main/03_mlr_4_predictors.ipynb)
 4. Manual Beta Coefficient Computation: [04_manual_beta_computation.ipynb](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework/blob/main/04_manual_beta_computation.ipynb)
 5. Scikit-learn Approach: [05_sklearn_lr.ipynb](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework/blob/main/05_sklearn_lr.ipynb)
+6. SciPy x NumPy Approach: [06_scipy_numpy_lr.ipynb](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework/blob/main/06_scipy_numpy_lr.ipynb)
 
 ## Tech Stack
 - Python 3
@@ -20,3 +21,4 @@ The goal is to understand regression deeply, by actually doing it, not just memo
 - Statsmodels
 - Matplotlib/Seaborn for visualization
 - Scikit-learn
+- SciPy
