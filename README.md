@@ -94,6 +94,10 @@ ________________________________________________________________________________
 - Standard Python, Random
 - [Rock_Paper_Scissors](https://github.com/nibeditans/Rock_Paper_Scissors)
 
+### Email Validation using String
+- Standard Python
+- [Email Validation](https://github.com/nibeditans/Email-Validation-using-String-)
+
 ### Scientific Calculator
 - Standard Python, Math 
 - [Scientific Calculator](https://github.com/nibeditans/Scientific-Calculator)
@@ -183,10 +187,6 @@ ________________________________________________________________________________
 ### Scatter Plot with Mean and Standard Deviation Visualization
 - Python: NumPy, Pandas, Matplotlib
 - [Scatter Plot](https://github.com/nibeditans/Scatter-Plot)
-
-### Email Validation using String
-- Standard Python
-- [Email Validation](https://github.com/nibeditans/Email-Validation-using-String-)
 
 ### Bike Rental System
 - Standard Python, OOPs
