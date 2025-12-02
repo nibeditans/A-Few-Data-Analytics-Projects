@@ -22,3 +22,5 @@ The goal is to understand regression deeply, by actually doing it, not just memo
 - Matplotlib/Seaborn for visualization
 - Scikit-learn
 - SciPy
+
+To view the full documentation, please refer to the complete [Regression Framework](https://github.com/nibeditans/Practical-Linear-Regression-Insights-Framework).
